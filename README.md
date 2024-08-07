@@ -8,7 +8,7 @@ Time is split into segments that are successive.
 The sender can alter its transmission rate xt at the start of each MI t, which remains constant during the MI.
 
 ### Sample Run
-
+![video](sample_run.gif)
 ### Overview
 This repo contains the gym environment required for training reinforcement
 learning models for created policies that govern packet routing over a network with 2 routers and multiple senders
